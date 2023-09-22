@@ -4,12 +4,12 @@ JS Core. Задача 4.4.9
 
 ## Register a new user
 
-![Alt text](1.png)
+![i1.png](i1.png)
 
 ## Existing user login
 
-![Alt text](2.png)
+![i2.png](i2.png)
 
 ## Get current user
 
-![Alt text](3.png)
+![i3.png](i3.png)
